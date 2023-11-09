@@ -6,7 +6,7 @@ const App = () => {
     <>
       <h1 style={{ color: "red" }}>こんにちは</h1>
       <p>お元気ですか</p>
-      <button onclick={onClickButton}>ボタン</button>
+      <button onClick={onClickButton}>ボタン</button>
     </>
   );
 };
