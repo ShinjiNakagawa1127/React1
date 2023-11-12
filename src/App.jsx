@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 // import { useEffect } from "react/cjs/react.production.min";
-import ColorfulMessage from "./conponents/colorful";
+import {ColorfulMessage} from "./conponents/colorful";
 const contentStyle = {
   color: "blue",
   fontSize: "18px",
